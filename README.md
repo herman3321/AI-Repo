@@ -1,4 +1,4 @@
-# AI-Repo
+# AI-Assistant
 
 Firstly the activation word of this app is computer.
 
